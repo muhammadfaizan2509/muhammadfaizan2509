@@ -1,4 +1,4 @@
-<h1>Hello!, I am Muhammad Faizan, Full Stack Developer | AI Developer</h1>
+<h1>Hello!, I am Muhammad Faizan, Web Developer | Python Developer | software engineer</h1>
 # 💫 About Me:
 - 👋 Hi, I’m Muhammad Faizan...<br>- 👀 I’m a Full Stack Developer | AI Developer...<br>- 🌱 I’m currently learning Computer Science...<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 muhammadfaizan2509@gmail.com ...<br>- 😄 Pronouns: Fazii ...<br>- ⚡ Fun fact: Crzy Programmer...
 
